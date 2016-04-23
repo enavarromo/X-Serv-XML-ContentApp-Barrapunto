@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://barrapunto.com/">
+<title>Barrapunto</title>
+<link>http://barrapunto.com/</link>
+<description>La informaci&#243;n que te interesa</description>
+<dc:language>EN</dc:language>
+<dc:rights>Copyleft 1999-2006, Barrapunto</dc:rights>
+<dc:date>2016-04-22T19:50:09+00:00</dc:date>
+<dc:publisher>Barrapunto S.L.</dc:publisher>
+<dc:creator>webmaster@barrapunto.com</dc:creator>
+<dc:subject>Tecnolog&#237;a, Software libre</dc:subject>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://barrapunto.com/article.pl?sid=16/04/15/0856239&amp;from=rss" />
+  <rdf:li rdf:resource="http://barrapunto.com/article.pl?sid=16/03/31/107221&amp;from=rss" />
+  <rdf:li rdf:resource="http://softlibre.barrapunto.com/article.pl?sid=16/03/30/2121239&amp;from=rss" />
+  <rdf:li rdf:resource="http://espana.barrapunto.com/article.pl?sid=16/03/30/1155218&amp;from=rss" />
+  <rdf:li rdf:resource="http://barrapunto.com/article.pl?sid=16/03/23/117216&amp;from=rss" />
+  <rdf:li rdf:resource="http://softlibre.barrapunto.com/article.pl?sid=16/03/10/2340210&amp;from=rss" />
+  <rdf:li rdf:resource="http://barrapunto.com/article.pl?sid=16/03/08/1133210&amp;from=rss" />
+  <rdf:li rdf:resource="http://softlibre.barrapunto.com/article.pl?sid=16/03/08/1130245&amp;from=rss" />
+  <rdf:li rdf:resource="http://softlibre.barrapunto.com/article.pl?sid=16/03/05/1116259&amp;from=rss" />
+  <rdf:li rdf:resource="http://eventos.barrapunto.com/article.pl?sid=16/03/05/1113219&amp;from=rss" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://barrapunto.com/images/topics/topicbarrapunto.png" />
+<textinput rdf:resource="http://barrapunto.com/search.pl" />
+</channel>
+
+<image rdf:about="http://barrapunto.com/images/topics/topicbarrapunto.png">
+<title>Barrapunto</title>
+<url>http://barrapunto.com/images/topics/topicbarrapunto.png</url>
+<link>http://barrapunto.com/</link>
+</image>
+
+<item rdf:about="http://barrapunto.com/article.pl?sid=16/04/15/0856239&amp;from=rss">
+<title>The Guardian quiere controlar los comentarios en sus foros</title>
+<link>http://barrapunto.com/article.pl?sid=16/04/15/0856239&amp;from=rss</link>
+<description>En el peri&amp;#243;dico brit&amp;#225;nico The Guardian han analizado 70 millones de comentarios en sus foros y los 1,4 millones que sus "moderadores" han bloqueado por no cumplir las normas para la comunidad. Han publicado estad&amp;#237;sticas sobre qu&amp;#233; tipo de periodistas son m&amp;#225;s acosados y qu&amp;#233; temas y secciones tienen peores discusiones. En The Guardian creen que ningunear a los provocadores no es soluci&amp;#243;n, ni tampoco cerrar los foros. Buscan quedarse con los comentarios buenos y desanimar los malos. Los comentarios insultantes da&amp;#241;an a los autores y desaniman a otros comentaristas. Tambi&amp;#233;n bloquean los comentarios fuera de tema o condescendientes con los autores y borran el spam. La p&amp;#225;gina incluye 8 pruebas interactivas para que puedas comparar tus decisiones de moderaci&amp;#243;n con las que tomaron en el peri&amp;#243;dico. &amp;#191;Tendr&amp;#225; la actuaci&amp;#243;n de los profesionales de The Guardian mejor efecto que la de los voluntarios de Barrapunto?</description>
+<dc:creator>Ricardo Estalm&#225;n (posted by nettizen)</dc:creator>
+<dc:date>2016-04-15T08:15:00+00:00</dc:date>
+<dc:subject>censura</dc:subject>
+<slash:section>mainpage</slash:section>
+<slash:comments>22</slash:comments>
+<slash:hit_parade>22,22,2,1,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://barrapunto.com/article.pl?sid=16/03/31/107221&amp;from=rss">
+<title>Una disputa por un nombre causa errores en muchas webs</title>
+<link>http://barrapunto.com/article.pl?sid=16/03/31/107221&amp;from=rss</link>
+<description>Keith Collins cuenta en Quartz la historia de c&amp;#243;mo la disputa por el nombre 'kik' entre Azer Ko&amp;#231;ulu, el programador de la plantilla de programas kik y la empresa que hace la mensajer&amp;#237;a Kik llev&amp;#243; a que Ko&amp;#231;ulu retirara todos sus programas del gestor de paquetes para JavaScript npm. Uno de ellos son las 11 l&amp;#237;neas de left-pad que son parte de las dependencias indirectas de muchas webs, causando errores. Tras el l&amp;#237;o, en npm han actualizado su procedimiento para disputas. &amp;#191;Puedes trabajar sin left-pad?</description>
+<dc:creator>Ricardo Estalm&#225;n (posted by nettizen)</dc:creator>
+<dc:date>2016-03-31T09:26:00+00:00</dc:date>
+<dc:subject>WWW</dc:subject>
+<slash:section>mainpage</slash:section>
+<slash:comments>24</slash:comments>
+<slash:hit_parade>24,22,8,3,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://softlibre.barrapunto.com/article.pl?sid=16/03/30/2121239&amp;from=rss">
+<title>Microsoft se asocia con Canonical para soportar UBUNTU</title>
+<link>http://softlibre.barrapunto.com/article.pl?sid=16/03/30/2121239&amp;from=rss</link>
+<description>sqater nos cuenta: &amp;#171;Steven J. Vaughan-Nichols informa en ZDNet que 'seg&amp;#250;n fuentes de Canonical, la compa&amp;#241;&amp;#237;a matriz de Ubuntu Linux, y Microsoft, pronto se podr&amp;#225; ejecutar Ubuntu en Windows 10. Esto ser&amp;#225; algo m&amp;#225;s que ejecutar el int&amp;#233;rprete de comandos en Windows 10. Despu&amp;#233;s de todo, gracias a programas como Cygwin o los servicios p&amp;#250;blicos Msys, los usuarios incondicionales de Unix han sido capaces de ejecutar la interfaz de l&amp;#237;nea de comandos Bash (CLI) en Windows. Con esta nueva incorporaci&amp;#243;n, los usuarios de Ubuntu podr&amp;#225;n ejecutar Ubuntu de forma simult&amp;#225;nea con Windows. Y no en una m&amp;#225;quina virtual, sino como una parte integrada de la de Windows 10. [...] Microsoft y Canonical, sin embargo, seg&amp;#250;n dichas fuentes, no integrar&amp;#225;n Linux per se en Windows. En su lugar, Ubuntu se ejecutar&amp;#225; gracias a bibliotecas nativas de Windows'. &amp;#161;Ver para creer! Tras la adquisicion de Xamarin, esta noticia me deja temblando las rodillas.&amp;#187;</description>
+<dc:creator>nettizen</dc:creator>
+<dc:date>2016-03-30T20:34:00+00:00</dc:date>
+<dc:subject>microsoft</dc:subject>
+<slash:section>softlibre</slash:section>
+<slash:comments>29</slash:comments>
+<slash:hit_parade>29,29,6,3,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://espana.barrapunto.com/article.pl?sid=16/03/30/1155218&amp;from=rss">
+<title>Akademy-es 2016 se celebrar&#225; en Madrid (del 15 al 17 de abril )</title>
+<link>http://espana.barrapunto.com/article.pl?sid=16/03/30/1155218&amp;from=rss</link>
+<description>pobrecito hablador nos cuenta: &amp;#171;Este a&amp;#241;o el evento Akademy-es 2016 se celebrar&amp;#225; en Madrid los d&amp;#237;as 15, 16 y 17 de abril en Medialab-Prado, un laboratorio ciudadano de producci&amp;#243;n, investigaci&amp;#243;n y difusi&amp;#243;n de proyectos culturales. Si eres un simpatizante del proyecto KDE no puedes faltar, y si no lo eres, vente y ver&amp;#225;s como te convencemos. Akademy-es es el encuentro anual de desarrolladores, colaboradores y usuarios de KDE en Espa&amp;#241;a, que se celebra desde el a&amp;#241;o 2006 en distintas ciudades del territorio espa&amp;#241;ol. Durante el evento se realizar&amp;#225;n charlas, talleres y otras actividades donde podremos ponernos en contacto entre desarrolladores y usuarios de KDE y Software Libre de toda Espa&amp;#241;a, para poder hablar de los proyectos que se est&amp;#225;n desarrollando, compartir c&amp;#243;digo, experiencias y conocimiento; dar a conocer el proyecto KDE como comunidad a personas sin perfil t&amp;#233;cnico, mostrando las distintas oportunidades que ofrece; discutir acerca de las tecnolog&amp;#237;as que ofrece KDE y el Software Libre, tanto para nuevos desarrolladores como para usuarios que quieran conocer mejor qu&amp;#233; tienen a su disposici&amp;#243;n; y disfrutar aprendiendo m&amp;#225;s sobre Software Libre. m&amp;#225;s informaci&amp;#243;n.&amp;#187;</description>
+<dc:creator>nettizen</dc:creator>
+<dc:date>2016-03-30T10:13:00+00:00</dc:date>
+<dc:subject>kde</dc:subject>
+<slash:section>es</slash:section>
+<slash:comments>4</slash:comments>
+<slash:hit_parade>4,3,0,0,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://barrapunto.com/article.pl?sid=16/03/23/117216&amp;from=rss">
+<title>Anvil. Python visual para la Web</title>
+<link>http://barrapunto.com/article.pl?sid=16/03/23/117216&amp;from=rss</link>
+<description>Acaba de ser publicado Anvil, un entorno de desarrollo visual para la Web donde los controles se disponen arrastrando y soltando. Haciendo doble clic en ellos se accede al c&amp;#243;digo asociado. He aqu&amp;#237; un v&amp;#237;deo de demostraci&amp;#243;n Es interesante saber que el lenguaje de programaci&amp;#243;n es Python en el cliente y en el servidor. Si el editor tuviera caracter&amp;#237;sticas como depuraci&amp;#243;n paso a paso, etc., estar&amp;#237;amos ante una especie de Visual Basic para la Web.</description>
+<dc:creator>juatman (posted by nettizen)</dc:creator>
+<dc:date>2016-03-23T09:24:00+00:00</dc:date>
+<dc:subject>Programaci&#243;n</dc:subject>
+<slash:section>mainpage</slash:section>
+<slash:comments>6</slash:comments>
+<slash:hit_parade>6,6,0,0,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://softlibre.barrapunto.com/article.pl?sid=16/03/10/2340210&amp;from=rss">
+<title>Ubuntu s&#243;lo soportar&#225; el driver libre para las gr&#225;ficas AMD</title>
+<link>http://softlibre.barrapunto.com/article.pl?sid=16/03/10/2340210&amp;from=rss</link>
+<description>Ubuntu 16.04, la nueva versi&amp;#243;n de Ubuntu que se publicar&amp;#225; en abril no ofrecer&amp;#225; el driver privativo fglrx para las tarjetas gr&amp;#225;ficas de AMD. En su lugar Canonical ha apostado por el driver libre, indicando que los usuarios que quieran el driver privativo siempre podr&amp;#225;n descargarlo desde la web de AMD bajo su propia responsabilidad. Esta decisi&amp;#243;n que, en un principio, podr&amp;#237;a verse como una falta de visi&amp;#243;n por parte de Ubuntu puesto que el usar el driver libre supondr&amp;#225; una merma de caracter&amp;#237;sticas y de velocidad; sin embargo, pese a lo arriesgado del movimiento, es un gran acierto. Ubuntu 16.04 es una versi&amp;#243;n LTS (siglas de Long Term Support o soporte extendido) lo que se significa que Canonical dar&amp;#225; soporte a esta versi&amp;#243;n durante 3 a&amp;#241;os. En este tiempo es probable que las tecnolog&amp;#237;as actuales cambien y para afrontar estos cambios en un driver privativo dependes de que la empresa que lo construye los implemente. Sin embargo en los driver libres estos cambios suelen ser inmediatos. Adem&amp;#225;s AMD est&amp;#225; haciendo un gran esfuerzo por poner sus driver libres al mismo nivel que a su driver privado y lo est&amp;#225; consiguiendo r&amp;#225;pidamente. Este movimiento es un apoyo de Ubuntu al esfuerzo que est&amp;#225; haciendo AMD. Con todos sus usuarios usando driver libres, estos avanzar&amp;#225;n m&amp;#225;s r&amp;#225;pido al tener una mayor base de usuarios.</description>
+<dc:creator>Almorca (posted by nettizen)</dc:creator>
+<dc:date>2016-03-10T22:37:00+00:00</dc:date>
+<dc:subject>AMD</dc:subject>
+<slash:section>softlibre</slash:section>
+<slash:comments>35</slash:comments>
+<slash:hit_parade>35,34,11,5,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://barrapunto.com/article.pl?sid=16/03/08/1133210&amp;from=rss">
+<title>Nook cierra su servicio de libros electr&#243;nicos en Reino Unido</title>
+<link>http://barrapunto.com/article.pl?sid=16/03/08/1133210&amp;from=rss</link>
+<description>Leo en Microsiervos que Nook cierra su servicio de libros electr&amp;#243;nicos en Reino Unido dejando muchos libros fuera de la transici&amp;#243;n a Sainsbury. Esto significa que libros 'comprados' en NOOK dejar&amp;#225;n de funcionar por el tema del DRM y tal. M&amp;#225;s informaci&amp;#243;n.</description>
+<dc:creator>Alataza (posted by nettizen)</dc:creator>
+<dc:date>2016-03-08T11:51:00+00:00</dc:date>
+<dc:subject>libros</dc:subject>
+<slash:section>mainpage</slash:section>
+<slash:comments>42</slash:comments>
+<slash:hit_parade>42,42,4,2,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://softlibre.barrapunto.com/article.pl?sid=16/03/08/1130245&amp;from=rss">
+<title>Anunciado SQL Server para Gnu/Linux</title>
+<link>http://softlibre.barrapunto.com/article.pl?sid=16/03/08/1130245&amp;from=rss</link>
+<description>Un pobrecito hablador nos cuenta: &amp;#171;Leo en el blog de SQL Server de Microsoft una noticia simple pero impactante, Microsoft quiere lanzar una versi&amp;#243;n de SQL para GNU/Linux. En la nota se puede leer que Mark Shuttleworth est&amp;#225; encantado con el anuncio. &amp;#191;Qu&amp;#233; ser&amp;#225; lo siguiente? &amp;#191;Windows para GNU/Linux? De momento no dicen GNU/Linux sino s&amp;#243;lo Linux, pero todo se andar&amp;#225;.&amp;#187;</description>
+<dc:creator>nettizen</dc:creator>
+<dc:date>2016-03-08T09:47:00+00:00</dc:date>
+<dc:subject>microsoft</dc:subject>
+<slash:section>softlibre</slash:section>
+<slash:comments>67</slash:comments>
+<slash:hit_parade>67,65,21,12,1,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://softlibre.barrapunto.com/article.pl?sid=16/03/05/1116259&amp;from=rss">
+<title>NodeOS: not a toy OS anymore</title>
+<link>http://softlibre.barrapunto.com/article.pl?sid=16/03/05/1116259&amp;from=rss</link>
+<description>piranna nos cuenta: &amp;#171;Hace unos meses se public&amp;#243; la RC1 de NodeOS, un sistema operativo construido sobre un kernel Linux usando Node.js como espacio de usuario y npm como administrador de paquetes. Un grave 'pero' que ten&amp;#237;a NodeOS era el estar limitado a usar la versi&amp;#243;n 0.11.14 de Node.js por la existencia de un bug introducido en la versi&amp;#243;n 0.11.15 con el cambio de versi&amp;#243;n del motor de Javascript v8 que evitaba el poder usar versiones mas recientes. Pues bien, el pasado lunes 29 de Febrero (fecha carism&amp;#225;tica donde las haya :-D) se descubri&amp;#243; que dicho problema estaba ocasionado aparentemente por un uso temprano por parte de v8 de alg&amp;#250;n dispositivo alojado en /dev (qu&amp;#233; hace un motor Javascript necesitando acceder a los dispositivos del sistema, no lo se). El caso es, ahora NodeOS ha pasado de usar una versi&amp;#243;n de desarrollo de Node.js de hace a&amp;#241;o y medio a usar la ultima versi&amp;#243;n estable de la rama LTS (4.3.2, publicada ayer 2 de marzo), haciendo que haya pasado de ser una curiosidad tecnol&amp;#243;gica a poder ser considerado una alternativa seria para proyectos reales y entornos de producci&amp;#243;n. Pod&amp;#233;is obtener mas informaci&amp;#243;n sobre como se ha descubierto un bug tan rec&amp;#243;ndito en el blog del proyecto. Adem&amp;#225;s, NodeOS es un proyecto abierto a colaboraciones donde los pull-request son siempre bien recibidos :-)&amp;#187;</description>
+<dc:creator>nettizen</dc:creator>
+<dc:date>2016-03-05T10:03:00+00:00</dc:date>
+<dc:subject>Sistemas Operativos</dc:subject>
+<slash:section>softlibre</slash:section>
+<slash:comments>29</slash:comments>
+<slash:hit_parade>29,29,9,9,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://eventos.barrapunto.com/article.pl?sid=16/03/05/1113219&amp;from=rss">
+<title>XXVIII Jornadas T&#233;cnicas del GULUC3M (Madrid): Call 4 talks</title>
+<link>http://eventos.barrapunto.com/article.pl?sid=16/03/05/1113219&amp;from=rss</link>
+<description>adolphenom nos cuenta: &amp;#171;Como todos los a&amp;#241;os, el GUL UC3M organiza las segundas Jornadas T&amp;#233;cnicas del a&amp;#241;o, donde todo el mundo puede proponer sus charlas, talleres, etc., y donde todos pueden asistir de forma gratuita y libre. Desde el 24 de febrero hasta el 13 de marzo es el Call 4 Talks, &amp;#161;an&amp;#237;mate a proponer tu charla! Desde el 14 de marzo al 18 de marzo, ser&amp;#225;n las votaciones de las charlas propuestas, &amp;#161;no os lo perd&amp;#225;is! Las Jornadas T&amp;#233;cnicas ser&amp;#225;n del 11 al 15 de abril en Legan&amp;#233;s (aulas a&amp;#250;n por confirmar). Pod&amp;#233;is entrar a la aplicaci&amp;#243;n de cursos desde http://cursos.gul.es/ y pod&amp;#233;is encontrarnos tambi&amp;#233;n en @guluc3m&amp;#187;</description>
+<dc:creator>nettizen</dc:creator>
+<dc:date>2016-03-05T09:30:00+00:00</dc:date>
+<dc:subject>tecnologia</dc:subject>
+<slash:section>eventos</slash:section>
+<slash:hit_parade>0,0,0,0,0,0,0</slash:hit_parade>
+</item>
+
+<textinput rdf:about="http://barrapunto.com/search.pl">
+<title>Search Barrapunto</title>
+<description>Search Barrapunto stories</description>
+<name>query</name>
+<link>http://barrapunto.com/search.pl</link>
+</textinput>
+
+</rdf:RDF>
